@@ -3,7 +3,7 @@
 
 import numpy as np
 import os
-
+# we can give any source in this variable
 # RTSP camera url
 # rtsp://192.168.1.240:554/H264?ch=1&subtype=1&proto=Onvif
 # rtsp://admin:123456@192.168.226.202:550/mode=real&idc=1&ids=1
